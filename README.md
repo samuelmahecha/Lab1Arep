@@ -60,7 +60,7 @@ Before proceeding, ensure you have the following software installed on your syst
 
 1. **Clone the Repository:**
     ```bash
-    git clone [https://github.com/yourusername/your-repo.git](https://github.com/yourusername/your-repo.git) your-repo
+    git clone https://github.com/samuelmahecha/Lab1Arep.git
     ```
 2. **Navigate to the Project Directory:**
     ```bash
@@ -77,7 +77,7 @@ Before proceeding, ensure you have the following software installed on your syst
     * This will compile your code and create a JAR file in the `target` directory. You should see output similar to:
 
         ```
-        [INFO] Building jar: /path/to/your-repo/target/your-repo-1.0-SNAPSHOT.jar
+        [INFO] Building jar:(https://github.com/samuelmahecha/Lab1Arep.git-1.0-SNAPSHOT.jar
         [INFO] BUILD SUCCESS
         ```
 
